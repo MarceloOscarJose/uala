@@ -47,4 +47,4 @@ xcodebuild test \
 
 ## Documentation
 A detailed technical documentation (with architecture diagrams and decisions) is available in the repository:  
-[📄 SmartCityExploration Documentation](docs/SmartCityExploration.pdf)
+[📄 SmartCityExploration Documentation](docs/SmartCityExploration.rd)
